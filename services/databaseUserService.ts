@@ -1,5 +1,5 @@
 import { PrismaClient, usuario } from '@prisma/client';
-import { Password } from '@mui/icons-material';
+
 
 const Prisma = new PrismaClient()
 

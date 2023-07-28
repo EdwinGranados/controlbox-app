@@ -4,7 +4,7 @@ import useUser from '../lib/useUser';
 import { useRouter } from 'next/router'
 
 const userRegister = userRegisterService();
-export default function register() {
+export default function Register() {
 
     const router = useRouter();
     const [username, setUsername] = useState("");
