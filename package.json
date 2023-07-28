@@ -9,9 +9,25 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@fontsource/roboto": "^5.0.5",
+    "@mui/icons-material": "^5.14.1",
+    "@mui/material": "^5.14.2",
+    "@prisma/client": "^5.0.0",
+    "axios": "^1.4.0",
+    "bcryptjs": "^2.4.3",
+    "boostrap": "^2.0.0",
+    "bootstrap": "^5.3.1",
+    "iron-session": "^6.3.1",
+    "knex": "^2.5.1",
     "next": "13.4.12",
+    "next-iron-session": "^4.2.0",
+    "prisma": "^5.0.0",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-bootstrap": "^2.8.0",
+    "react-dom": "18.2.0",
+    "swr": "^2.2.0"
   },
   "devDependencies": {
     "eslint": "8.45.0",
