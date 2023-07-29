@@ -22,7 +22,7 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx"
-, "lib/fetchJson.js", "lib/fetchJson.js", "pages/index.jsx", "pages/login.tsx", "pages/_app.jsx", "lib/useUser.js"  ],
+, "pages/api/user.js", "pages/api/Register.js", "pages/api/logout.js", "pages/api/auth.js", "clientServices/userRegisterService.js", "clientServices/userLoginService.js"  ],
   "exclude": [
     "node_modules"
   ]
