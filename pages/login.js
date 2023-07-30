@@ -1,7 +1,8 @@
 import { useState } from "react";
 import { userloginService } from '../clientServices/userLoginService';
 import useUser from '../lib/useUser';
-import { useRouter } from 'next/router'
+import { useRouter } from 'next/navigation'
+import { HeaderLoginandregister } from '../components/HeaderLoginandregister'
 
 const userSer = userloginService();
 
@@ -35,12 +36,10 @@ export default function Login() {
         setPassword(e.target.value);
     }
 
-    const handleRedirect = () => {
-        router.push('/register')
-    }
 
     return (
-        <div>
+        <div className="bg-dark">
+            <HeaderLoginandregister></HeaderLoginandregister>
             {!user ? (<h1>Carganado...</h1>) :
                 <>
                     {!user.isLogged &&
@@ -56,18 +55,17 @@ export default function Login() {
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="col-md-12">
+                                        <div className="col-md-12">
                                             <div className="row">
                                                 <div className="col-md-6">
-                                                    <label for="passwordControl" class="form-label">Contraseña</label>
-                                                    <input type="password" name="passwordControl" class="form-control" id="passwordControl" onChange={passwordHandler} />
+                                                    <label htmlFor="passwordControl" className="form-label">Contraseña</label>
+                                                    <input type="password" name="passwordControl" className="form-control" id="passwordControl" onChange={passwordHandler} />
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="col-12">
+                                        <div className="col-12">
                                             <div className="row">
-                                                <div className="col-6"> <button type="submit" class="btn btn-primary">Sign in</button></div>
-                                                <div className="col-6"> <button type="button" class="btn btn-success" onClick={handleRedirect}>Sing up</button></div>
+                                                <div className="col-6"> <button type="submit" className="btn btn-primary">Sign in</button></div>
                                             </div>
                                         </div>
                                     </form>

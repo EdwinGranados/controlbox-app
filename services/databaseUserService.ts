@@ -10,6 +10,7 @@ export default function databaseAuthService() {
                 nombreUsuario: nombreUsuario
             },
             select: {
+                idUsuario:true,
                 nombreUsuario: true,
                 email: true,
                 password: true,

@@ -7,11 +7,11 @@ const settings = ['Profile', 'Account', 'Dashboard', 'Logout'];
 
 export default function ResponsiveAppBar({ user }) {
   return(
-    <>
-      <Header üser={user}></Header>
+    <div className='bg-dark'>
+      <Header user={user}></Header>
       hello world!!
 
-    </>
+    </div>
   )
 }
 
@@ -20,7 +20,6 @@ export const getServerSideProps = withSession(async function ({ req, res }) {
   if (user === undefined) {
     return { props: {user:null} };
   }
-  console.log(user);
   return {
     props: { user: req.session.get("user") },
   }
