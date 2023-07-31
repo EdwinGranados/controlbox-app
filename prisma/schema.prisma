@@ -20,7 +20,7 @@ model libro {
 
 model resena {
   id        Int     @id @default(autoincrement())
-  resena    String
+  resena    String  @db.LongText
   libro     libro   @relation(fields: [libroId], references: [id])
   libroId   Int
   usuario   usuario @relation(fields: [idUsuario], references: [idUsuario])

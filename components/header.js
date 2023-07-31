@@ -17,13 +17,18 @@ export function Header({ user }) {
 
     return (<>
         <nav className="navbar bg-body-tertiary border-bottom border-body" data-bs-theme="dark">
-            {!user && <div className="container-fluid justify-content-end">
-                <button className="btn btn-outline-success me-2" type="button" onClick={LogInHandler}>LogIn</button>
-                <button className="btn btn-sm btn-outline-secondary" type="button" onClick={SingUpHandler}>SingUp</button>
-            </div>}
-            {user !== null && <div className="container-fluid justify-content-end">
-                <button className="btn btn-outline-warn me-2" type="button" onClick={LogOut}>LogOut</button>
-            </div>}
+            <div className='container-fluid'>
+                <span className="navbar-brand mb-0 h1" style={{ cursor: 'pointer' }}>ControlBox</span>
+                <div className='d-flex'>
+                    {!user && <div className="container-fluid justify-content-end">
+                        <button className="btn btn-outline-success me-2" type="button" onClick={LogInHandler}>LogIn</button>
+                        <button className="btn btn-sm btn-outline-secondary" type="button" onClick={SingUpHandler}>SingUp</button>
+                    </div>}
+                    {user !== null && <div className="container-fluid justify-content-end">
+                        <button className="btn btn-outline-warn me-2" type="button" onClick={LogOut}>LogOut</button>
+                    </div>}
+                </div>
+            </div>
         </nav>
     </>
     );

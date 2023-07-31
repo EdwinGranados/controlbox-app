@@ -17,6 +17,7 @@ export default withSession(async (req, res) => {
         await DBUserService.setUsuario(username,encrytPassword,email);
         const nuevoUsuario = await DBUserService.getUsuario(username)
         if(nuevoUsuario !== undefined) {
+          await saveSession(nuevoUsuario,req);
           res.status(200).json({nuevoUsuario});
           return;
         }
@@ -24,3 +25,8 @@ export default withSession(async (req, res) => {
         console.log(error)
       }
 })
+
+async function saveSession(user,request){
+  request.session.set("user",user);
+  await request.session.save();
+}
