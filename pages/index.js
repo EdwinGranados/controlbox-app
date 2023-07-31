@@ -12,7 +12,7 @@ export default function ResponsiveAppBar({ user }) {
   React.useEffect(() => {
     async function getBooks(){
        const data = await booksService.getBooks();
-       console.log(data);
+       setBooks(data);
     }
     getBooks()
   },[])
