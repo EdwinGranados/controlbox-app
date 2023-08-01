@@ -21,12 +21,12 @@ model libro {
 model resena {
   idResena  Int     @id @default(autoincrement())
   resena    String  @db.LongText
-  libro     libro   @relation(fields: [libroId], references: [idLibro])
-  libroId   Int
+  libro     libro   @relation(fields: [idLibro], references: [idLibro])
+  idLibro   Int
   usuario   usuario @relation(fields: [idUsuario], references: [idUsuario])
   idUsuario Int
 
-  @@index([libroId])
+  @@index([idLibro])
   @@index([idUsuario])
 }
 

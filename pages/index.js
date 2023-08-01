@@ -28,14 +28,14 @@ export default function Home({ user }) {
       <Header user={user}></Header>
       <div className='container'>
         <div className='row mt-5'>
-          {books.map((book, index) =>
+          {books.map((book) =>
           (
-            <div className='col-4 mb-5 d-flex justify-content-center'>
+            <div key={book.idLibro} className='col-4 mb-5 d-flex justify-content-center'>
               <div className="card text-bg-secondary">
                 <img src={book.portada} className="card-img-top" />
                 <div className="card-body">
                   <h5 className="card-title">{book.nombre}</h5>
-                  <p class="card-text">{book.resumen}</p>
+                  <p className="card-text">{book.resumen}</p>
                   <a href="#" className="btn btn-primary">Reseñas</a>
                 </div>
               </div>
