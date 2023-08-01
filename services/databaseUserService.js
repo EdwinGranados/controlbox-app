@@ -4,16 +4,11 @@ import { PrismaClient, usuario } from '@prisma/client';
 const Prisma = new PrismaClient()
 
 export default function databaseAuthService() {
-    const getUsuario = async (nombreUsuario: string) => {
+    const getUsuario = async (nombreUsuario) => {
+        console.log(nombreUsuario)
         const Usuario = await Prisma.usuario.findUnique({
             where: {
-                nombreUsuario: nombreUsuario
-            },
-            select: {
-                idUsuario:true,
-                nombreUsuario: true,
-                email: true,
-                password: true,
+               nombreUsuario,
             },
         })
 

@@ -1,0 +1,529 @@
+{
+    "Data": [
+        {
+            "ID": "17081",
+            "title": "Interface Circuits for Microsensor Integrated Systems",
+            "author": "Giuseppe Ferri & Vincenzo Stornelli (Eds.)",
+            "content": "Recent advances in sensing technologies, especially those for Microsensor Integrated Systems, have led to several new commercial applications. Among these, low voltage and low power circuit architectures have gained growing attention, being suitable for portable long battery life devices. The aim is to improve the performances of actual interface circuits and systems, both in terms of voltage mode and current mode, in order to overcome the potential problems due to technology scaling and different technology integrations. Related problems, especially those concerning parasitics, lead to a severe interface design attention, especially concerning the analog front-end and novel and smart architecture must be explored and tested, both at simulation and prototype level. Moreover, the growing demand for autonomous systems gets even harder the interface design due to the need of energy-aware cost-effective circuit interfaces integrating, where possible, energy harvesting solutions. The objective of this Special Issue is to explore the potential solutions to overcome actual limitations in sensor interface circuits and systems, especially those for low voltage and low power Microsensor Integrated Systems. The present Special Issue aims to present and highlight the advances and the latest novel and emergent results on this topic, showing best practices, implementations and applications.\r\n\r\nThe Guest Editors invite to submit original research contributions dealing with sensor interfacing related to this specific topic. Additionally, application oriented and review papers are encouraged.",
+            "content_short": "Recent advances in sensing technologies, especially those for Microsensor Integrated Systems, have led to several new commercial applications. Among these, low voltage and low power circuit architectures have gained growing ...",
+            "publisher": "MDPI",
+            "publisher_date": "2018",
+            "pages": "172",
+            "language": "english",
+            "url_details": "https:\/\/www.etnassoft.com\/biblioteca\/interface-circuits-for-microsensor-integrated-systems-2\/",
+            "url_download": "https:\/\/openlibra.com\/book\/interface-circuits-for-microsensor-integrated-systems-2",
+            "cover": "https:\/\/olcovers2.blob.core.windows.net\/coverswp\/2019\/03\/Interface_Circuits_for_Microsensor_Integrated_Systems-OpenLibra-321x461.jpg",
+            "thumbnail": "https:\/\/olcovers2.blob.core.windows.net\/coverswp\/2019\/03\/Interface_Circuits_for_Microsensor_Integrated_Systems-OpenLibra-110x153.jpg",
+            "num_comments": "0",
+            "categories": [
+                {
+                    "category_id": 2354,
+                    "name": "Electr\u00f3nica",
+                    "nicename": "electronica"
+                },
+                {
+                    "category_id": 2340,
+                    "name": "Tecnolog\u00eda",
+                    "nicename": "tecnologia-ciencia"
+                }
+            ],
+            "tags": [
+                {
+                    "tag_id": 2993,
+                    "name": "Ciencia",
+                    "nicename": "ciencia"
+                },
+                {
+                    "tag_id": 1412,
+                    "name": "electr\u00f3nica",
+                    "nicename": "electronica"
+                },
+                {
+                    "tag_id": 1731,
+                    "name": "energ\u00eda",
+                    "nicename": "energia"
+                },
+                {
+                    "tag_id": 702,
+                    "name": "interfaces",
+                    "nicename": "interfaces"
+                },
+                {
+                    "tag_id": 3383,
+                    "name": "microsistemas",
+                    "nicename": "microsistemas"
+                },
+                {
+                    "tag_id": 1325,
+                    "name": "sensores",
+                    "nicename": "sensores"
+                },
+                {
+                    "tag_id": 803,
+                    "name": "tecnolog\u00eda",
+                    "nicename": "tecnologia"
+                }
+            ]
+        },
+        {
+            "ID": "17074",
+            "title": "Advanced Memristor Modeling: Memristor Circuits and Networks",
+            "author": "Valeri Mladenov",
+            "content": "The investigation of new memory schemes, neural networks, computer systems and many other improved electronic devices is very important for future generations of electronic circuits and for their widespread application in all the areas of industry. Relatedly, the analysis of new efficient and advanced electronic elements and circuits is an essential field of highly developed electrical and electronic engineering. The resistance-switching phenomenon, observed in many amorphous oxides, has been investigated since 1970 and is promising for inclusion in technologies for constructing new electronic memories. \r\n\r\nIt has been established that such oxide materials have the ability to change their conductance in accordance to the applied voltage and memorizing their state for a long time interval. Similar behavior was predicted for the memristor element by Leon Chua in 1971. The memristor was proposed in accordance with symmetry considerations and the relationships between the four basic electric quantities—electric current i, voltage v, charge q and flux linkage Ψ. The memristor is a passive one-port element, together with the capacitor, inductor and resistor. The Williams Hewlett Packard (HP) research group has made a link between resistive switching devices and the memristor proposed by Chua. In addition, a number of scientific papers related to memristors and memristor devices have been issued and several models for them have been proposed. The memristor is a highly nonlinear component. It relates the electric charge q and the flux linkage Ψ, expressed as a time integral of the voltage v. It has the important capability of remembering the electric charge passing through its cross-section, and its respective resistance, when the electrical signals are switched off. Due to its nano-scale dimensions, non-volatility and memorizing properties, the memristor is a sound potential candidate for applications in high-density computer memories, artificial neural networks, and many other electronic devices.\r\n\r\n(...)\r\n\r\nThis monograph summarizes results from several of the author’s papers about memristors and memristor circuits. These papers are especially based on titanium dioxide memristors, which still have very wide application, and for this reason are main objects of investigation. It is organized as follows. Chapter 1 is an introduction to memristors; the basic physical description of the titanium dioxide memristor nanostructure and processes associated with the ionic current is presented. In Chapter 2, the fundamentals of titanium dioxide memristor modeling and simulations are described in detail, using the existing models and the models modified by the author. Chapter 3 reports the analysis of several basic memristor devices and circuits, such as memristor generators, integrators, and anti-parallel and series circuits, applying the author’s memristor models. In Chapter 4, the investigation of memristor networks—memories and artificial neurons—is shown, paying attention to the basic electrical parameters and properties of the proposed memristor models and devices, and especially the modified memristor synaptic circuits. Finally, concluding remarks are presented.",
+            "content_short": "The investigation of new memory schemes, neural networks, computer systems and many other improved electronic devices is very important for future generations of electronic circuits and for their widespread application ...",
+            "publisher": "MDPI",
+            "publisher_date": "2019",
+            "pages": "186",
+            "language": "english",
+            "url_details": "https:\/\/www.etnassoft.com\/biblioteca\/advanced-memristor-modeling-memristor-circuits-and-networks\/",
+            "url_download": "https:\/\/openlibra.com\/book\/advanced-memristor-modeling-memristor-circuits-and-networks",
+            "cover": "https:\/\/olcovers2.blob.core.windows.net\/coverswp\/2019\/03\/Advanced_Memristor_Modeling-OpenLibra-321x461.png",
+            "thumbnail": "https:\/\/olcovers2.blob.core.windows.net\/coverswp\/2019\/03\/Advanced_Memristor_Modeling-OpenLibra-110x153.png",
+            "num_comments": "0",
+            "categories": [
+                {
+                    "category_id": 206,
+                    "name": "Ciencia",
+                    "nicename": "ciencia"
+                },
+                {
+                    "category_id": 2354,
+                    "name": "Electr\u00f3nica",
+                    "nicename": "electronica"
+                },
+                {
+                    "category_id": 2340,
+                    "name": "Tecnolog\u00eda",
+                    "nicename": "tecnologia-ciencia"
+                }
+            ],
+            "tags": [
+                {
+                    "tag_id": 2993,
+                    "name": "Ciencia",
+                    "nicename": "ciencia"
+                },
+                {
+                    "tag_id": 1412,
+                    "name": "electr\u00f3nica",
+                    "nicename": "electronica"
+                },
+                {
+                    "tag_id": 3384,
+                    "name": "memristor",
+                    "nicename": "memristor"
+                },
+                {
+                    "tag_id": 252,
+                    "name": "modelos",
+                    "nicename": "modelos"
+                },
+                {
+                    "tag_id": 1458,
+                    "name": "redes neuronales",
+                    "nicename": "redes-neuronales"
+                }
+            ]
+        },
+        {
+            "ID": "17066",
+            "title": "The MagPi #79",
+            "author": "Varios",
+            "content": "Plus! All this inside The MagPi 79:\r\n<ul>\r\n<li>Build a Teachable Machine. Use Google’s new Coral USB Accelerator to build a machine that learns to identify objects<\/li>\r\n<li>Develop an Android app. Build and deploy Android apps on a Raspberry Pi<\/li>\r\n<li>Tortoise Fridge. Keep a tortoise safe during hibernation with temperature sensors and an old fridge<\/li>\r\n<li>Use ANPR in your projects. Follow the Car Spy Pi project to add number plate recognition to your driveway<\/li>\r\n<li>Top 10 home automation projects. Control your home with these Raspberry Pi kits<\/li>\r\n<li>Win! Mice and Keyboards. Ten brand new Official Raspberry Pi Mice and Keyboard kits up for grabs<\/li>\r\n<\/ul>",
+            "content_short": "Plus! All this inside The MagPi 79:\r\n<ul>\r\n<li>Build a Teachable Machine. Use Google’s new Coral USB Accelerator to build a machine that learns to identify objects<\/li>\r\n<li>Develop an Android app. Build and ...",
+            "publisher": "MagPi",
+            "publisher_date": "2019",
+            "pages": "100",
+            "language": "english",
+            "url_details": "https:\/\/www.etnassoft.com\/biblioteca\/the-magpi-79\/",
+            "url_download": "https:\/\/openlibra.com\/book\/the-magpi-79",
+            "cover": "https:\/\/olcovers2.blob.core.windows.net\/coverswp\/2019\/03\/MagPi79-OpenLibra-350x461.jpg",
+            "thumbnail": "https:\/\/olcovers2.blob.core.windows.net\/coverswp\/2019\/03\/MagPi79-OpenLibra-110x153.jpg",
+            "num_comments": "0",
+            "categories": [
+                {
+                    "category_id": 1389,
+                    "name": "MagPi",
+                    "nicename": "magpi"
+                },
+                {
+                    "category_id": 596,
+                    "name": "Revistas",
+                    "nicename": "revistas"
+                }
+            ],
+            "tags": [
+                {
+                    "tag_id": 692,
+                    "name": "AI",
+                    "nicename": "ai"
+                },
+                {
+                    "tag_id": 132,
+                    "name": "android",
+                    "nicename": "android"
+                },
+                {
+                    "tag_id": 267,
+                    "name": "IA",
+                    "nicename": "ia"
+                },
+                {
+                    "tag_id": 3041,
+                    "name": "MagPi",
+                    "nicename": "magpi"
+                },
+                {
+                    "tag_id": 32,
+                    "name": "programaci\u00f3n",
+                    "nicename": "programacion"
+                },
+                {
+                    "tag_id": 240,
+                    "name": "python",
+                    "nicename": "python"
+                },
+                {
+                    "tag_id": 1390,
+                    "name": "Raspberry Pi",
+                    "nicename": "raspberry-pi"
+                },
+                {
+                    "tag_id": 3008,
+                    "name": "Revistas",
+                    "nicename": "revistas"
+                }
+            ]
+        },
+        {
+            "ID": "17064",
+            "title": "HackSpace #16",
+            "author": "Varios",
+            "content": "LEDs are often the first component beginners use, but they can also be highly expressive.We look at what it takes to make LED art We also chat with Jasmine Brackett from Tindie and take a look at how drones are improving lives in East Africa.\r\n\r\nContent: \r\n < ul >\r\n < li > Designing an amplifier <\/li>\r\n<li>Cosplay<\/li>\r\n<li>Arduino<\/li>\r\n<li>Upcycling<\/li>\r\n<\/ul>",
+            "content_short": "LEDs are often the first component beginners use, but they can also be highly expressive. We look at what it takes to make LED art We also chat with Jasmine ...",
+            "publisher": "Autoedici\u00f3n",
+            "publisher_date": "2019",
+            "pages": "132",
+            "language": "english",
+            "url_details": "https:\/\/www.etnassoft.com\/biblioteca\/hackspace-16\/",
+            "url_download": "https:\/\/openlibra.com\/book\/hackspace-16",
+            "cover": "https:\/\/olcovers2.blob.core.windows.net\/coverswp\/2019\/02\/HackSpaceMag16-OpenLibra-350x461.jpg",
+            "thumbnail": "https:\/\/olcovers2.blob.core.windows.net\/coverswp\/2019\/02\/HackSpaceMag16-OpenLibra-110x153.jpg",
+            "num_comments": "0",
+            "categories": [
+                {
+                    "category_id": 3340,
+                    "name": "HackSpace",
+                    "nicename": "hackspace"
+                },
+                {
+                    "category_id": 596,
+                    "name": "Revistas",
+                    "nicename": "revistas"
+                }
+            ],
+            "tags": [
+                {
+                    "tag_id": 572,
+                    "name": "Arduino",
+                    "nicename": "arduino"
+                },
+                {
+                    "tag_id": 3344,
+                    "name": "DIY",
+                    "nicename": "diy"
+                },
+                {
+                    "tag_id": 1412,
+                    "name": "electr\u00f3nica",
+                    "nicename": "electronica"
+                },
+                {
+                    "tag_id": 3339,
+                    "name": "HackSpace",
+                    "nicename": "hackspace"
+                },
+                {
+                    "tag_id": 2398,
+                    "name": "LEDs",
+                    "nicename": "leds"
+                },
+                {
+                    "tag_id": 3008,
+                    "name": "Revistas",
+                    "nicename": "revistas"
+                },
+                {
+                    "tag_id": 803,
+                    "name": "tecnolog\u00eda",
+                    "nicename": "tecnologia"
+                }
+            ]
+        },
+        {
+            "ID": "17062",
+            "title": "Conquer the command line. 2nd Ed.",
+            "author": "Richard Smedley",
+            "content": "Using the command line is an amazing skill to have, allowing you to control a computer more effectively than ever before – especially when it comes to Raspbian on the Raspberry Pi! Here’s our updated guide to the terminal that will allow you to truly conquer the command line.\r\n\r\nMaster essential skills across 14 chapters:\r\n<ul>\r\n<li>Read and write text files<\/li>\r\n<li>Find & install software<\/li>\r\n<li>Manage removable storage<\/li>\r\n<li>Use Secure Shell for remote access<\/li>\r\n<li>Create Raspberry Pi SD cards<\/li>\r\n<li>Going online in the command line<\/li>\r\n<li>and much, much more.<\/li>\r\n<\/ul>",
+            "content_short": "Using the command line is an amazing skill to have, allowing you to control a computer more effectively than ever before – especially when it comes to Raspbian on the ...",
+            "publisher": "MagPi",
+            "publisher_date": "2019",
+            "pages": "95",
+            "language": "english",
+            "url_details": "https:\/\/www.etnassoft.com\/biblioteca\/conquer-the-command-line-2nd-ed\/",
+            "url_download": "https:\/\/openlibra.com\/book\/conquer-the-command-line-2nd-ed",
+            "cover": "https:\/\/olcovers2.blob.core.windows.net\/coverswp\/2019\/02\/Essentials_Bash_v2-OpenLibra-326x461.png",
+            "thumbnail": "https:\/\/olcovers2.blob.core.windows.net\/coverswp\/2019\/02\/Essentials_Bash_v2-OpenLibra-110x153.png",
+            "num_comments": "0",
+            "categories": [
+                {
+                    "category_id": 368,
+                    "name": "Herramientas",
+                    "nicename": "software_libre_herramientas"
+                }
+            ],
+            "tags": [
+                {
+                    "tag_id": 413,
+                    "name": "Bash",
+                    "nicename": "bash"
+                },
+                {
+                    "tag_id": 2223,
+                    "name": "CLI",
+                    "nicename": "cli"
+                },
+                {
+                    "tag_id": 936,
+                    "name": "l\u00ednea de comandos",
+                    "nicename": "linea-de-comandos"
+                },
+                {
+                    "tag_id": 32,
+                    "name": "programaci\u00f3n",
+                    "nicename": "programacion"
+                },
+                {
+                    "tag_id": 381,
+                    "name": "UNIX",
+                    "nicename": "unix"
+                }
+            ]
+        },
+        {
+            "ID": "17079",
+            "title": "New Directions on Model Predictive Control",
+            "author": "Jinfeng Liu & Helen E. Durand (Eds.)",
+            "content": "Model predictive control (MPC) has been an important and successful advanced control technology in process industries, mainly due to its ability to handle effectively complex systems with hard control constraints. At each sampling time, MPC solves a constrained optimal control problem online, based on the most recent state or output feedback to obtain a finite sequence of control actions and only applies the first portion. MPC presents a very flexible optimal control framework that is capable of handling a wide range of industrial issues while incorporating state or output feedback to aid in robustness of the design.\r\n\r\nTraditionally, centralized MPC with quadratic cost functions had dominated the focus of MPC research. Advances in computing, communication and sensing technologies in the last decades have enabled us to look beyond the traditional MPC and brought new challenges and opportunities in MPC research. Two important examples of this technology-driven development are distributed MPC (in which multiple local MPC controllers carry out their calculations in separate processors collaboratively) and economic MPC (in which a general economic cost function that typically is not quadratic is optimized). There are already many results on distributed MPC and economic MPC. However, there are still many important problems that need investigation within and beyond distributed and economic MPC. Along with the theoretical development in MPC, we are also witnessing the application of MPC to many non-traditional control or scheduling problems. Some examples are the use of MPC in the treatment of diabetes, management of hemoglobin in anemia, irrigation scheduling in agriculture, and coordination of distributed energy generation systems.\r\n\r\nThe purpose of this Special Issue is to assemble a collection of current research in MPC that handles practically-motivated theoretical issues, as well as recent MPC applications to highlight the significant potential benefits of new MPC theory and design.",
+            "content_short": "Model predictive control (MPC) has been an important and successful advanced control technology in process industries, mainly due to its ability to handle effectively complex systems with hard control constraints. ...",
+            "publisher": "MDPI",
+            "publisher_date": "2019",
+            "pages": "232",
+            "language": "english",
+            "url_details": "https:\/\/www.etnassoft.com\/biblioteca\/new-directions-on-model-predictive-control\/",
+            "url_download": "https:\/\/openlibra.com\/book\/new-directions-on-model-predictive-control",
+            "cover": "https:\/\/olcovers2.blob.core.windows.net\/coverswp\/2019\/03\/New-Directions-on-Model-Predictive-Control_OpenLibra-321x461.jpg",
+            "thumbnail": "https:\/\/olcovers2.blob.core.windows.net\/coverswp\/2019\/03\/New-Directions-on-Model-Predictive-Control_OpenLibra-110x153.jpg",
+            "num_comments": "0",
+            "categories": [
+                {
+                    "category_id": 206,
+                    "name": "Ciencia",
+                    "nicename": "ciencia"
+                }
+            ],
+            "tags": [
+                {
+                    "tag_id": 2993,
+                    "name": "Ciencia",
+                    "nicename": "ciencia"
+                },
+                {
+                    "tag_id": 710,
+                    "name": "datos",
+                    "nicename": "datos"
+                },
+                {
+                    "tag_id": 462,
+                    "name": "estad\u00edstica",
+                    "nicename": "estadistica"
+                },
+                {
+                    "tag_id": 296,
+                    "name": "matem\u00e1ticas",
+                    "nicename": "matematicas"
+                },
+                {
+                    "tag_id": 252,
+                    "name": "modelos",
+                    "nicename": "modelos"
+                },
+                {
+                    "tag_id": 3385,
+                    "name": "predicci\u00f3n",
+                    "nicename": "prediccion"
+                },
+                {
+                    "tag_id": 1458,
+                    "name": "redes neuronales",
+                    "nicename": "redes-neuronales"
+                }
+            ]
+        },
+        {
+            "ID": "17076",
+            "title": "Bridging gender gaps?",
+            "author": "Leonardo Gasparini & Mariana Marchionni (Eds.)",
+            "content": "In the 1960s two out of ten adult women in Brazil were in the labor force, either employed or actively seeking for a job; half a century later this figure has changed dramatically, climbing to seven out of ten. This pattern has been typical of all Latin American countries, although with different intensities.\r\n\r\nCompared to the situation some decades ago, women in the region now allocate a larger share of their time to market activities rather than working at home.\r\n\r\nThe gap with men in labor market participation remains far from being closed, and it is still larger than in several regions of the world, but its width has been substantially reduced.\r\nArguably, the strong increase in female labor force participation (LFP) is among the most salient socioeconomic changes in Latin America in the last half-century.\r\n\r\nThis fact not only implies a profound transformation in the daily life of millions of Latin American women and families, but also has substantial economy-wide labor and social consequences. Poverty, inequality, unemployment and education –just to mention a few social issues– are all affected by a more intense entry of women into the workforce.\r\n\r\nAlthough remarkable, the long-run pattern of female gains has been insufficient to close the gap with males in most labor variables, such as wages, employment and labor force participation. Gender equality in the labor market remains a difficult challenge in the region. While gender gaps in education attainment have been substantially reduced or even eliminated, the region stills performs poorly in guaranteeing equality in the economic and labor dimensions. For instance, while Latin America ranks among the regions with relatively small gender gaps based on the Global Index of the World Economic Forum,1 the performance becomes more mediocre in the Economic Participation and Opportunity Sub index, which captures the gender gap in labor force participation rates, earned incomes, and employment in top positions.\r\n\r\nThis book highlights a change in the trend of female labor force participation that makes the situation potentially more worrisome: after around half a century of sustained growth, there are signs of a widespread and significant deceleration in the entry of women into the Latin American labor markets. That deceleration seems to have been taking place since the early\/mid-2000s, and it applies to all groups of women, but particularly to those married2, and in more vulnerable households. The slower entry of women into the workforce has delayed the closing of the gender gap in labor participation, and makes improbable the fulfillment of the gender-equity Millennium Development Goals (MDGs) related to female employment. Although this book provides a general view of the issue of female LFP, the recent deceleration is highlighted in several of its chapters.",
+            "content_short": "In the 1960s two out of ten adult women in Brazil were in the labor force, either employed or actively seeking for a job; half a century later this figure ...",
+            "publisher": "Universidad Nacional de la Plata",
+            "publisher_date": "2015",
+            "pages": "353",
+            "language": "english",
+            "url_details": "https:\/\/www.etnassoft.com\/biblioteca\/bridging-gender-gaps\/",
+            "url_download": "https:\/\/openlibra.com\/book\/bridging-gender-gaps",
+            "cover": "https:\/\/olcovers2.blob.core.windows.net\/coverswp\/2019\/03\/Bridging_Gender_Gaps-OpenLibra-326x461.png",
+            "thumbnail": "https:\/\/olcovers2.blob.core.windows.net\/coverswp\/2019\/03\/Bridging_Gender_Gaps-OpenLibra-110x153.png",
+            "num_comments": "0",
+            "categories": [
+                {
+                    "category_id": 1441,
+                    "name": "Educaci\u00f3n",
+                    "nicename": "educacion"
+                }
+            ],
+            "tags": [
+                {
+                    "tag_id": 567,
+                    "name": "educaci\u00f3n",
+                    "nicename": "educacion"
+                },
+                {
+                    "tag_id": 1274,
+                    "name": "ensayo",
+                    "nicename": "ensayo"
+                },
+                {
+                    "tag_id": 3108,
+                    "name": "mujer",
+                    "nicename": "mujer"
+                },
+                {
+                    "tag_id": 1025,
+                    "name": "sociedad",
+                    "nicename": "sociedad"
+                },
+                {
+                    "tag_id": 1497,
+                    "name": "trabajo",
+                    "nicename": "trabajo"
+                }
+            ]
+        },
+        {
+            "ID": "17072",
+            "title": "Wearable Technologies",
+            "author": "Nicola Carbonaro & Alessandro Tognetti",
+            "content": "Wearable technology will revolutionize our lives in the years to come. The current trend is to augment ordinary body-worn objects—e.g., watches, glasses, bracelets, and clothing—with advanced information and communication technologies (ICT) such as sensors, electronics, software, connectivity and power sources. These wearable devices can monitor and assist the user in the management of his\/her daily life with applications that may range from activity tracking, sport and wellness, mobile games, environmental monitoring, up to eHealth.\r\n\r\nThe present Special Issue reports the recent advances in the multidisciplinary field of wearable technologies and the important gaps that still remain in order to obtain a massive diffusion. \r\n\r\nIn the frame of wearable technologies, this Special Issue of Technologies includes a total of 10 papers, including one review paper and nine research articles. Articles in this Special Issue address topics that include: wearable sensing and bio-sensing technologies, smart textiles, smart materials, wearable microsystems, low-power and embedded circuits for data acquisition and processing and data transmission.",
+            "content_short": "Wearable technology will revolutionize our lives in the years to come. The current trend is to augment ordinary body-worn objects—e.g., watches, glasses, bracelets, and clothing—with advanced information and communication technologies ...",
+            "publisher": "MDPI",
+            "publisher_date": "2018",
+            "pages": "162",
+            "language": "english",
+            "url_details": "https:\/\/www.etnassoft.com\/biblioteca\/wearable-technologies\/",
+            "url_download": "https:\/\/openlibra.com\/book\/wearable-technologies",
+            "cover": "https:\/\/olcovers2.blob.core.windows.net\/coverswp\/2019\/03\/Wearable-Technologies_OpenLibra-321x461.jpg",
+            "thumbnail": "https:\/\/olcovers2.blob.core.windows.net\/coverswp\/2019\/03\/Wearable-Technologies_OpenLibra-110x153.jpg",
+            "num_comments": "0",
+            "categories": [
+                {
+                    "category_id": 206,
+                    "name": "Ciencia",
+                    "nicename": "ciencia"
+                },
+                {
+                    "category_id": 2340,
+                    "name": "Tecnolog\u00eda",
+                    "nicename": "tecnologia-ciencia"
+                }
+            ],
+            "tags": [
+                {
+                    "tag_id": 467,
+                    "name": "dispositivos moviles",
+                    "nicename": "dispositivos-moviles"
+                },
+                {
+                    "tag_id": 1412,
+                    "name": "electr\u00f3nica",
+                    "nicename": "electronica"
+                },
+                {
+                    "tag_id": 803,
+                    "name": "tecnolog\u00eda",
+                    "nicename": "tecnologia"
+                }
+            ]
+        },
+        {
+            "ID": "17068",
+            "title": "The MagPi #80",
+            "author": "Varios",
+            "content": "Plus! All this inside The MagPi 80\r\n\r\n<ul>\r\n<li>Amazing ham radio projects<\/li>\r\n<li>Use ham radio with Raspberry Pi<\/li>\r\n<li>Hack a Lego Boost<\/li>\r\n<li>Use a Raspberry Pi device to control your Lego projects<\/li>\r\n<li>Set up a Samba file server<\/li>\r\n<li>Quickly build a Raspberry Pi network file-storage device<\/li>\r\n<li>Build a karaoke machine<\/li>\r\n<li>Sing your heart out with this great Raspberry Pi project<\/li>\r\n<li>Make comic books from TV recordings<\/li>\r\n<li>Automatically turn video recordings into mock hand-drawn comic books<\/li>\r\n<li>The top 10 HATs<\/li>\r\n<li>The best Hardware Attached on Top accessories for Raspberry Pi<\/li>\r\n<li>Learn the command line<\/li>\r\n<li>A great selection of resources for anybody looking to boost their command-line skills<\/li>\r\n<li>Underwater drone<\/li>\r\n<li>How one reader has built a remote-control underwater robot<\/li>\r\n<li>The Clapper<\/li>\r\n<li>Recreate this classic clap on\/off light switch with a Raspberry Pi<\/li>\r\n<li>Win! Keybow keyboards<\/li>\r\n<li>Your chance to win one of five mechanical keyboards<\/li>\r\n<\/ul>",
+            "content_short": "Plus! All this inside The MagPi 80\r\n\r\n<ul>\r\n<li>Amazing ham radio projects<\/li>\r\n<li>Use ham radio with Raspberry Pi<\/li>\r\n<li>Hack a Lego Boost<\/li>\r\n<li>Use a Raspberry Pi device to control your Lego projects<\/li>\r\n<li>Set up a Samba ...",
+            "publisher": "MagPi",
+            "publisher_date": "2019",
+            "pages": "100",
+            "language": "english",
+            "url_details": "https:\/\/www.etnassoft.com\/biblioteca\/the-magpi-80\/",
+            "url_download": "https:\/\/openlibra.com\/book\/the-magpi-80",
+            "cover": "https:\/\/olcovers2.blob.core.windows.net\/coverswp\/2019\/03\/MagPi80_OpenLibra-350x461.gif",
+            "thumbnail": "https:\/\/olcovers2.blob.core.windows.net\/coverswp\/2019\/03\/MagPi80_OpenLibra-110x153.gif",
+            "num_comments": "0",
+            "categories": [
+                {
+                    "category_id": 1389,
+                    "name": "MagPi",
+                    "nicename": "magpi"
+                },
+                {
+                    "category_id": 596,
+                    "name": "Revistas",
+                    "nicename": "revistas"
+                }
+            ],
+            "tags": [
+                {
+                    "tag_id": 2312,
+                    "name": "Lego",
+                    "nicename": "lego"
+                },
+                {
+                    "tag_id": 3041,
+                    "name": "MagPi",
+                    "nicename": "magpi"
+                },
+                {
+                    "tag_id": 32,
+                    "name": "programaci\u00f3n",
+                    "nicename": "programacion"
+                },
+                {
+                    "tag_id": 791,
+                    "name": "radio",
+                    "nicename": "radio"
+                },
+                {
+                    "tag_id": 1390,
+                    "name": "Raspberry Pi",
+                    "nicename": "raspberry-pi"
+                },
+                {
+                    "tag_id": 3008,
+                    "name": "Revistas",
+                    "nicename": "revistas"
+                }
+            ]
+        }
+    ]
+}

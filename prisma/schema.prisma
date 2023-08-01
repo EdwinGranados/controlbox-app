@@ -11,17 +11,17 @@ datasource db {
 }
 
 model libro {
-  id      Int      @id @default(autoincrement())
+  idLibro Int      @id @default(autoincrement())
   nombre  String   @unique
-  resumen String
+  resumen String   @db.LongText
   portada String
   resena  resena[]
 }
 
 model resena {
-  id        Int     @id @default(autoincrement())
+  idResena  Int     @id @default(autoincrement())
   resena    String  @db.LongText
-  libro     libro   @relation(fields: [libroId], references: [id])
+  libro     libro   @relation(fields: [libroId], references: [idLibro])
   libroId   Int
   usuario   usuario @relation(fields: [idUsuario], references: [idUsuario])
   idUsuario Int
@@ -35,6 +35,5 @@ model usuario {
   nombreUsuario String   @unique
   email         String
   password      String
-  resenaId      Int?
   resena        resena[]
 }

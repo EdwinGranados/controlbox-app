@@ -1,7 +1,6 @@
 import { useState } from "react";
 import { userloginService } from '../clientServices/userLoginService';
 import useUser from '../lib/useUser';
-import { useRouter } from 'next/navigation'
 import { HeaderLoginandregister } from '../components/HeaderLoginandregister'
 
 const userSer = userloginService();
@@ -12,13 +11,13 @@ export default function Login() {
         redirectIfFound: true,
     });
 
-    const router = useRouter()
     const [username, setUsername] = useState("");
     const [password, setPassword] = useState("");
 
 
     const handleSubmit = async (e) => {
         e.preventDefault();
+        console.log(username,password)
         try {
             mutateUser(
                 await userSer.login(username, password)

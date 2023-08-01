@@ -22,7 +22,7 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx"
-, "pages/api/user.js", "pages/api/Register.js", "pages/api/logout.js", "pages/api/auth.js", "clientServices/userRegisterService.js", "clientServices/userLoginService.js"  ],
+, "pages/api/user.js", "pages/api/Register.js", "pages/api/logout.js", "pages/api/auth.js", "clientServices/userRegisterService.js", "clientServices/userLoginService.js", "services/databaseUserService.ts", "services/authService.js"  ],
   "exclude": [
     "node_modules"
   ]

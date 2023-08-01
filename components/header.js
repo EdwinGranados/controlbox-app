@@ -25,7 +25,7 @@ export function Header({ user }) {
                         <button className="btn btn-sm btn-outline-secondary" type="button" onClick={SingUpHandler}>SingUp</button>
                     </div>}
                     {user !== null && <div className="container-fluid justify-content-end">
-                        <button className="btn btn-outline-warn me-2" type="button" onClick={LogOut}>LogOut</button>
+                        <button className="btn btn-outline-danger me-2" type="button" onClick={LogOut}>LogOut</button>
                     </div>}
                 </div>
             </div>
