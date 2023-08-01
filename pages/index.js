@@ -1,6 +1,7 @@
 import * as React from 'react';
 import withSession from '../lib/sesion';
 import { Header } from '../components/header';
+import { Card } from '../components/Cards';
 import { BooksService } from '../clientServices/BooksService'
 
 
@@ -30,16 +31,7 @@ export default function Home({ user }) {
         <div className='row mt-5'>
           {books.map((book) =>
           (
-            <div key={book.idLibro} className='col-4 mb-5 d-flex justify-content-center'>
-              <div className="card text-bg-secondary">
-                <img src={book.portada} className="card-img-top" />
-                <div className="card-body">
-                  <h5 className="card-title">{book.nombre}</h5>
-                  <p className="card-text">{book.resumen}</p>
-                  <a href="#" className="btn btn-primary">Reseñas</a>
-                </div>
-              </div>
-            </div>
+            <Card book={book} key={book.idLibro}/>
           )
           )}
         </div>

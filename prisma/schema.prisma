@@ -11,11 +11,12 @@ datasource db {
 }
 
 model libro {
-  idLibro Int      @id @default(autoincrement())
-  nombre  String   @unique
-  resumen String   @db.LongText
-  portada String
-  resena  resena[]
+  idLibro      Int      @id @default(autoincrement())
+  nombre       String   @unique
+  resumen      String   @db.LongText
+  resumenLargo String   @db.LongText
+  portada      String
+  resena       resena[]
 }
 
 model resena {

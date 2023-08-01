@@ -17,10 +17,11 @@ export default withSession(async (req, res) => {
         if (book === null) {
             console.log("generando insert ")
             DataJson.Data.map((book) => {
-                const { title, thumbnail, content_short } = book;
+                const { title, thumbnail, content_short, content } = book;
                 DataBooksToInsert.push({
                     nombre: title,
                     resumen: content_short,
+                    resumenLargo:content,
                     portada: thumbnail,
                 })
 
